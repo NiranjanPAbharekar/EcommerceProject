@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from '../Navbar/Navbar'
 import Banner from '../Banner/Banner'
-import Product from '../Products/product'
+import Product from '../Products/Product'
 import Cart from '../Cart/Cart'
 import WishList from '../WishList/WishList'
 
